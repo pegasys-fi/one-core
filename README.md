@@ -1,10 +1,11 @@
 # Pegasys-One Core
 
 <div align="center">
-    <img width="900px" height="auto" 
+    <img width="450px" height="auto"
     src="image/logo.svg">
   </a>
 </div>
+
 
 Incorporated with the innovative Discretized-Liquidity-AMM model, Pegasys One is a next-generation DEX to maximize capital efficiency by realizing Limit Order in a decentralized way.
 
